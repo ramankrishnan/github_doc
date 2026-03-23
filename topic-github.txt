@@ -1,0 +1,25 @@
+github architecture-repositories,organizations,enterprizes
+repository creation and settings
+branch management and default branches
+branch protection rules
+codeOWNERS file configuration
+organization management and default branches
+team creation and team permission
+repository roles(admin,write,read,triage,maintain)
+collabrator and outside collabratormanagement
+ssh keys and deploy keys management
+personel access tokens and fine graind tokens
+webhooks-configuring and troubleshooting
+github apps installation and management
+secret scanning and alerts
+dependabot-security updates and version updates
+code scanning and CodeQL
+Security advisoriesand vulnerability alerts
+repository templates
+github pages configuration
+issues and pr templates
+labels,milestone,and projects
+audit log and activity monitoring
+sso/saml and SCIM provisioning
+Enterprise policiesand repository rules
+backup and migration tools(github enterprise importent)
